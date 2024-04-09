@@ -8,10 +8,3 @@ void ft_putstr(char *str)
         str = str + 1;
     }
 }
-int main()
-{
-    
-    ft_putstr("Programación en C");
-    
-    return 0;
-}
