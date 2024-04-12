@@ -8,3 +8,10 @@ ex03 Funciono bien y se dio a explicar
 ex04 Funciono bien y se dio a explicar
 ex05 Funciono bien y se dio a explicar
 
+Diego Soncco
+ex01 Correcto.
+ex02 Correcto.
+ex03 Correcto.
+ex04 Correcto.
+ex05 Correcto.
+Nota: Contiene librerias que la funcion no requiere pero no afecta al codigo. Corecto.
